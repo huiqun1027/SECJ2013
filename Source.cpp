@@ -1,8 +1,8 @@
 /* Group Member List
 
-Member Name 1:
-Matric Number:
-Section:
+Member Name 1: Thang Wei Jie
+Matric Number: A23CS0280
+Section: 09
 
 Member Name 2:
 Matric Number:
